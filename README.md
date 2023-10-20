@@ -1,4 +1,4 @@
-![logo](https://github.com/rajyadav-cyber/rajyadav-cyber/blob/main/Snake.yml)
+
 <h2 align="left">ℍ𝕚 👋! 𝕄𝕪 𝕟𝕒𝕞𝕖 𝕚𝕤  ℝ𝕒𝕛 𝕐𝕒𝕕𝕒𝕧 𝕗𝕣𝕠𝕞 𝔸𝕘𝕣𝕒</h2>
 
 ###
