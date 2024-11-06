@@ -42,13 +42,11 @@
 
 ###
 
-<img align="right" height="145" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVoMjh2eXlrb2E2OTJwZHo1Z2xjenZpaDV6dWNqYnNqa3BldzQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nsk1HFaJMNiww/giphy.gif"  />
+<img align="right" height="225" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVoMjh2eXlrb2E2OTJwZHo1Z2xjenZpaDV6dWNqYnNqa3BldzQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nsk1HFaJMNiww/giphy.gif"  />
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/rajyadav-cyber/rajyadav-cyber/output/snake.svg" alt="Snake animation" />
 
 ###
 
