@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="225" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVoMjh2eXlrb2E2OTJwZHo1Z2xjenZpaDV6dWNqYnNqa3BldzQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nsk1HFaJMNiww/giphy.gif"  />
+<img align="center" height="512" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVoMjh2eXlrb2E2OTJwZHo1Z2xjenZpaDV6dWNqYnNqa3BldzQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nsk1HFaJMNiww/giphy.gif"  />
 
 ###
 
@@ -52,23 +52,4 @@
 
 <p align="left">𝙼𝚘𝚗𝚎𝚢 𝚒𝚜 𝚘𝚗𝚕𝚢 𝚊 𝚝𝚘𝚘𝚕. 𝙸𝚝 𝚠𝚒𝚕𝚕 𝚝𝚊𝚔𝚎 𝚢𝚘𝚞 𝚠𝚑𝚎𝚛𝚎𝚟𝚎𝚛 𝚢𝚘𝚞 𝚠𝚒𝚜𝚑, 𝚋𝚞𝚝 𝚒𝚝 𝚠𝚒𝚕𝚕 𝚗𝚘𝚝 𝚛𝚎𝚙𝚕𝚊𝚌𝚎 𝚢𝚘𝚞 𝚊𝚜 𝚝𝚑𝚎 𝚍𝚛𝚒𝚟𝚎𝚛. --𝙰𝚢𝚗 𝚁𝚊𝚗𝚍</p>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajyadav-cyber&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=rajyadav-cyber&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
