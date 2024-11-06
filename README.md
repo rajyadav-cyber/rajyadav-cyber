@@ -26,10 +26,10 @@
 
 
 ###
-<br clear="both">
-###
 
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVoMjh2eXlrb2E2OTJwZHo1Z2xjenZpaDV6dWNqYnNqa3BldzQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nsk1HFaJMNiww/giphy.gif"  />
+<br clear="both">
+
+<img align="center" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVoMjh2eXlrb2E2OTJwZHo1Z2xjenZpaDV6dWNqYnNqa3BldzQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nsk1HFaJMNiww/giphy.gif"  />
 
 ###
 
