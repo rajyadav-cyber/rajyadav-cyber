@@ -5,10 +5,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyadav-cyber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <div align="center">
@@ -24,12 +20,6 @@
   <img width="15" />
 </div>
 
-
-###
-
-<br clear="both">
-<div align="center">
-<img align="center" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVoMjh2eXlrb2E2OTJwZHo1Z2xjenZpaDV6dWNqYnNqa3BldzQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nsk1HFaJMNiww/giphy.gif"  />
 
 ###
 
